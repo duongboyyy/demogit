@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: none;
+}
+body{
+    background-color: #66FF66;
+}
+.forgot_pass{
+    width: 500px;
+    height: 210px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 200px auto;
+}
+.forgot_pass p,input,button,a{
+    float: left;
+    margin-left: 36px;
+}
+.forgot_pass input{
+    width: 360px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.forgot_pass button{
+    height: 40px;
+    width: 50px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #66FF00;
+    color: white;
+    
+}
+.forgot_pass img{
+    width: 50%;
+    margin-top: 8px;
+}
+.forgot_pass a{
+   float: right;
+   margin-right: 28px;
+   margin-top: 5px;
+   text-decoration: none;
+}
